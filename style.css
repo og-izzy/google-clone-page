@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+    background-color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -37,7 +37,7 @@ div input {
 .search {
   background-color: 0;
   height: 50px;
-  border-style: ridge;
+    border-style: ridge;
   padding-left: 10px;
   margin-left: 340px;
   margin-right: 240px;
